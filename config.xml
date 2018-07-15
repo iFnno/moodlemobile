@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "391"
-        version   = "1.15">
-    <name>Moodle Mobile</name>
+        id        = "sa.tetco.cdev.lms"
+        versionCode = "1"
+        version   = "1.0">
+    <name>Future Gate</name>
 
     <description>
-        Moodle Mobile official app
+        Future Gate Mobile official app
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://lms.cdev.tetco.sa" email="afaqeel@tetco.sa">
+        Afnan Alaqeel
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
